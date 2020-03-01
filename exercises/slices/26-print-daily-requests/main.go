@@ -154,6 +154,7 @@ func main() {
 	}
 
 	fmt.Printf("%9s %-10d\n", "GRAND:", grand)
+
 	// Loop over the daily slice and its inner slices to find
 	// the daily totals and the grand total.
 	// ...
